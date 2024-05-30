@@ -10,5 +10,5 @@ Esse projeto foi proposto pela professora Michele Ambrosio no curso de Formaçã
 
 ## ⚙ Execução desse projeto:
 1. **Clonar Repósitório:** basta utilizar o comando `git clone` para clonar esse projeto e salvar na máquina e depois executar o arquivo `index.html`.
-2. **GitHubPages:** pode também acessar o projeto nesse [link](########), que abrirá esse projeto no GitHubPages, sem precisar baixar o repositório na sua máquina.
+2. **GitHubPages:** pode também acessar o projeto nesse [link](https://viniciusldiniz.github.io/desafio-de-pojeto-CSS/), que abrirá esse projeto no GitHubPages, sem precisar baixar o repositório na sua máquina.
 
